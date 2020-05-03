@@ -1,2 +1,2 @@
 # Kattis_Solutions
-All the of solutions that worked when submitted to Kattis
+All of the solutions that worked when submitted to Kattis
